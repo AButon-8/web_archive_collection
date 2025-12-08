@@ -12,6 +12,7 @@
 
 # HTML
 README.html
+*.html
 
 # VSCode
 .vscode/
