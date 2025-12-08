@@ -8,6 +8,7 @@
 .Rhistory
 .RData
 .Rproj.user
+*.Rproj           # чтобы сам RStudio проект не коммитился
 
 # VSCode
 .vscode/
@@ -15,4 +16,8 @@
 # Большие WARC файлы (не коммитим)
 *.warc
 *.warc.gz
+
+# Скриншоты/временные файлы (если не нужны сюда добавить пути в виде:)
+# docs/screenshots/temp/
+
 
