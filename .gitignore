@@ -10,6 +10,9 @@
 .Rproj.user
 *.Rproj           # чтобы сам RStudio проект не коммитился
 
+# HTML
+README.html
+
 # VSCode
 .vscode/
 
