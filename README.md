@@ -38,18 +38,18 @@
 
 
 ### Структура хранилища
-Подробные описание каждого сайта и его WARC-архива находятся в одноименных папках.
+Описание каждого сайта и его WARC-архива находятся в одноименных папках.
 
 ```plaintext
 web_archive_collection/
 ├── iskra-research/                 # Материалы сайта iskra-research.com
-│   ├── ArchiveReady.mhtml          # Отчет по архивируемости сайта
+│   ├── metadata/.                  # Метаданные веб-архвива iskra-research
 |   └── README.md                   # Анализ архивируемости и метаданных веб-архива
 ├── marxists.org-lenin/             # Материалы сайта marxists.org-lening
-│   ├── ArchiveReady.mhtml          # Отчет по архивируемости сайта
+│   ├── metadata/.                  # Метаданные веб-архвива marxists.org-lenin
 |   └── README.md                   # Анализ архивируемости и метаданных веб-архива
 ├── royallib.com-krupskaya_nadegda/ # Материалы сайта royallib.com-krupskaya
-│   ├── ArchiveReady.mhtml          # Отчет по архивируемости сайта
+│   ├── metadata/.                  # Метаданные веб-архвива royallib.com-krupskaya_nadegda
 |   └── README.md                   # Анализ архивируемости и метаданных веб-архива
 ├── README.md                       # Описание проекта и метрики
 └── LICENSE                         # Лицензия
