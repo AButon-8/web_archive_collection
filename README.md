@@ -17,8 +17,8 @@
 | Сайт                                                                            | Метод сбора      | Примечания                            |
 | ------------------------------------------------------------------------------- | ---------------- | ------------------------------------- |
 | [iskra-research.org](https://iskra-research.org)                                | ресурс полностью | wpull → WARC. Содержит материалы по проекту "Искра" |
-| [marxists.org/lenin](https://www.marxists.org/russkij/lenin/)                   | скачивание с фильтрацией по разделу | Архив ленинских текстов на русском    |
-| [royallib.com/krupskaya_nadegda](https://royallib.com/author/krupskaya_nadegda) | скачивание через прямые ссылки | Биографии и тексты Крупской           |
+| [marxists.org/lenin](https://www.marxists.org/russkij/lenin/)                   | скачивание с фильтрацией по разделу | Раздел сайта marxists.org, посвященный трудам В.И.Ленина, содержит избранные произведения теоретика марксизма   |
+| [royallib.com/krupskaya_nadegda](https://royallib.com/author/krupskaya_nadegda) | скачивание через прямые ссылки | Страница с текстами Надежды Константиновны Крупской  в электронной библиотеке royallib.com |
 
 
 
@@ -63,4 +63,5 @@ web_archive_collection/
 ### Лицензия
 Проект распространяется под лицензией [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 Полную информацию смотрите в файле [LICENSE](https://github.com/AButon-8/web_archive_collection/blob/main/LICENSE).
+
 
