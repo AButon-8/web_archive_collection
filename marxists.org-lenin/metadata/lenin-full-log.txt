@@ -1,0 +1,239 @@
+2025-11-23 16:51:09,942 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/index.htm’.
+2025-11-23 16:51:10,164 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/index.htm’: 200 OK. Length: 13261 [text/html].
+2025-11-23 16:51:10,797 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1894/12/struve.htm’.
+2025-11-23 16:51:11,059 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1894/12/struve.htm’: 200 OK. Length: 406943 [text/html].
+2025-11-23 16:51:12,448 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1895/fenl.htm’.
+2025-11-23 16:51:12,678 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1895/fenl.htm’: 200 OK. Length: 24439 [text/html].
+2025-11-23 16:51:14,208 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1896/fridrih_engels/index.html’.
+2025-11-23 16:51:14,434 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1896/fridrih_engels/index.html’: 200 OK. Length: 115689 [text/html].
+2025-11-23 16:51:15,210 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1899/03/len03v00.htm’.
+2025-11-23 16:51:15,453 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1899/03/len03v00.htm’: 200 OK. Length: 174257 [text/html].
+2025-11-23 16:51:16,437 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1899/03/len03v01.htm’.
+2025-11-23 16:51:16,578 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1899/03/len03v01.htm’: 200 OK. Length: 76688 [text/html].
+2025-11-23 16:51:17,410 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1899/03/len03v02.htm’.
+2025-11-23 16:51:17,698 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1899/03/len03v02.htm’: 200 OK. Length: 456155 [text/html].
+2025-11-23 16:51:19,203 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1899/03/len03v03.htm’.
+2025-11-23 16:51:19,388 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1899/03/len03v03.htm’: 200 OK. Length: 151267 [text/html].
+2025-11-23 16:51:20,174 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1899/03/len03v04.htm’.
+2025-11-23 16:51:20,426 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1899/03/len03v04.htm’: 200 OK. Length: 212070 [text/html].
+2025-11-23 16:51:21,562 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1899/03/len03v05.htm’.
+2025-11-23 16:51:21,779 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1899/03/len03v05.htm’: 200 OK. Length: 143013 [text/html].
+2025-11-23 16:51:22,962 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1899/03/len03v06.htm’.
+2025-11-23 16:51:23,206 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1899/03/len03v06.htm’: 200 OK. Length: 164939 [text/html].
+2025-11-23 16:51:24,888 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1899/03/len03v07.htm’.
+2025-11-23 16:51:25,105 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1899/03/len03v07.htm’: 200 OK. Length: 266367 [text/html].
+2025-11-23 16:51:26,196 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1899/03/len03v08.htm’.
+2025-11-23 16:51:26,362 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1899/03/len03v08.htm’: 200 OK. Length: 150849 [text/html].
+2025-11-23 16:51:27,796 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1900/12/zadachi.htm’.
+2025-11-23 16:51:27,890 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1900/12/zadachi.htm’: 200 OK. Length: 15787 [text/html].
+2025-11-23 16:51:28,486 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1902/ogl6.htm’.
+2025-11-23 16:51:28,542 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1902/ogl6.htm’: 200 OK. Length: 7942 [text/html].
+2025-11-23 16:51:29,510 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1902/6-13-1.htm’.
+2025-11-23 16:51:29,645 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1902/6-13-1.htm’: 200 OK. Length: 98238 [text/html].
+2025-11-23 16:51:30,413 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1902/6-13-2.htm’.
+2025-11-23 16:51:30,556 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1902/6-13-2.htm’: 200 OK. Length: 92726 [text/html].
+2025-11-23 16:51:31,129 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1902/6-13-3.htm’.
+2025-11-23 16:51:31,273 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1902/6-13-3.htm’: 200 OK. Length: 113151 [text/html].
+2025-11-23 16:51:32,348 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1902/6-13-4.htm’.
+2025-11-23 16:51:32,482 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1902/6-13-4.htm’: 200 OK. Length: 73581 [text/html].
+2025-11-23 16:51:33,275 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1903/09/a.htm’.
+2025-11-23 16:51:33,407 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1903/09/a.htm’: 200 OK. Length: 70007 [text/html].
+2025-11-23 16:51:34,241 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1903/09/leninzadachi.htm’.
+2025-11-23 16:51:34,325 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1903/09/leninzadachi.htm’: 200 OK. Length: 38623 [text/html].
+2025-11-23 16:51:35,743 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/8-4.htm’.
+2025-11-23 16:51:35,797 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/8-4.htm’: 200 OK. Length: 7775 [text/html].
+2025-11-23 16:51:37,200 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/8-9.htm’.
+2025-11-23 16:51:37,336 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/8-9.htm’: 200 OK. Length: 63145 [text/html].
+2025-11-23 16:51:38,443 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/8-6.htm’.
+2025-11-23 16:51:38,527 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/8-6.htm’: 200 OK. Length: 13307 [text/html].
+2025-11-23 16:51:39,620 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/8-12.htm’.
+2025-11-23 16:51:39,911 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/8-12.htm’: 200 OK. Length: 553272 [text/html].
+2025-11-23 16:51:41,061 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1904/01/15a.htm’.
+2025-11-23 16:51:41,198 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1904/01/15a.htm’: 200 OK. Length: 87887 [text/html].
+2025-11-23 16:51:42,117 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/8-5.htm’.
+2025-11-23 16:51:42,169 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/8-5.htm’: 200 OK. Length: 10556 [text/html].
+2025-11-23 16:51:43,324 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-28.htm’.
+2025-11-23 16:51:43,407 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-28.htm’: 200 OK. Length: 27399 [text/html].
+2025-11-23 16:51:44,932 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-19.htm’.
+2025-11-23 16:51:45,060 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-19.htm’: 200 OK. Length: 62945 [text/html].
+2025-11-23 16:51:46,001 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-18.htm’.
+2025-11-23 16:51:46,089 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-18.htm’: 200 OK. Length: 26225 [text/html].
+2025-11-23 16:51:47,222 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-27.htm’.
+2025-11-23 16:51:47,272 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-27.htm’: 200 OK. Length: 9913 [text/html].
+2025-11-23 16:51:48,737 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-23.htm’.
+2025-11-23 16:51:48,832 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-23.htm’: 200 OK. Length: 26771 [text/html].
+2025-11-23 16:51:50,074 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-24.htm’.
+2025-11-23 16:51:50,189 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-24.htm’: 200 OK. Length: 13076 [text/html].
+2025-11-23 16:51:51,336 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-9.htm’.
+2025-11-23 16:51:51,388 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-9.htm’: 200 OK. Length: 4881 [text/html].
+2025-11-23 16:51:52,571 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-25.htm’.
+2025-11-23 16:51:52,652 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-25.htm’: 200 OK. Length: 32052 [text/html].
+2025-11-23 16:51:53,902 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-6.htm’.
+2025-11-23 16:51:53,986 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-6.htm’: 200 OK. Length: 19284 [text/html].
+2025-11-23 16:51:55,431 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1905/01/18a.htm’.
+2025-11-23 16:51:55,488 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1905/01/18a.htm’: 200 OK. Length: 8448 [text/html].
+2025-11-23 16:51:56,934 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-26.htm’.
+2025-11-23 16:51:57,024 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-26.htm’: 200 OK. Length: 40981 [text/html].
+2025-11-23 16:51:57,834 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-1.htm’.
+2025-11-23 16:51:57,888 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-1.htm’: 200 OK. Length: 4041 [text/html].
+2025-11-23 16:51:58,942 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-15.htm’.
+2025-11-23 16:51:59,027 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-15.htm’: 200 OK. Length: 21240 [text/html].
+2025-11-23 16:52:00,453 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-3.htm’.
+2025-11-23 16:52:00,512 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-3.htm’: 200 OK. Length: 6148 [text/html].
+2025-11-23 16:52:02,001 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-12.htm’.
+2025-11-23 16:52:02,079 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-12.htm’: 200 OK. Length: 15716 [text/html].
+2025-11-23 16:52:02,836 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-16.htm’.
+2025-11-23 16:52:02,922 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-16.htm’: 200 OK. Length: 25204 [text/html].
+2025-11-23 16:52:04,057 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-17.htm’.
+2025-11-23 16:52:04,143 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-17.htm’: 200 OK. Length: 25499 [text/html].
+2025-11-23 16:52:04,766 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-21.htm’.
+2025-11-23 16:52:04,850 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-21.htm’: 200 OK. Length: 24141 [text/html].
+2025-11-23 16:52:05,690 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-20.htm’.
+2025-11-23 16:52:05,779 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-20.htm’: 200 OK. Length: 27048 [text/html].
+2025-11-23 16:52:06,935 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-22.htm’.
+2025-11-23 16:52:07,021 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-22.htm’: 200 OK. Length: 28194 [text/html].
+2025-11-23 16:52:08,261 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-4.htm’.
+2025-11-23 16:52:08,318 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-4.htm’: 200 OK. Length: 12459 [text/html].
+2025-11-23 16:52:09,384 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-7.htm’.
+2025-11-23 16:52:09,440 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-7.htm’: 200 OK. Length: 7034 [text/html].
+2025-11-23 16:52:10,952 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-8.htm’.
+2025-11-23 16:52:11,042 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-8.htm’: 200 OK. Length: 25033 [text/html].
+2025-11-23 16:52:12,562 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-10.htm’.
+2025-11-23 16:52:12,621 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-10.htm’: 200 OK. Length: 9756 [text/html].
+2025-11-23 16:52:14,018 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-13.htm’.
+2025-11-23 16:52:14,098 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-13.htm’: 200 OK. Length: 17834 [text/html].
+2025-11-23 16:52:15,191 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-11.htm’.
+2025-11-23 16:52:15,278 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-11.htm’: 200 OK. Length: 15531 [text/html].
+2025-11-23 16:52:15,867 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-14.htm’.
+2025-11-23 16:52:15,964 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-14.htm’: 200 OK. Length: 20160 [text/html].
+2025-11-23 16:52:17,248 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/9-2.htm’.
+2025-11-23 16:52:17,307 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/9-2.htm’: 200 OK. Length: 7128 [text/html].
+2025-11-23 16:52:18,208 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1905/09/part%20lit.htm’.
+2025-11-23 16:52:18,295 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1905/09/part%20lit.htm’: 200 OK. Length: 14436 [text/html].
+2025-11-23 16:52:19,617 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1905/11/25/Anarchy.html’.
+2025-11-23 16:52:19,673 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1905/11/25/Anarchy.html’: 200 OK. Length: 8179 [text/html].
+2025-11-23 16:52:20,730 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/in_mem_h.htm’.
+2025-11-23 16:52:20,818 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/in_mem_h.htm’: 200 OK. Length: 17610 [text/html].
+2025-11-23 16:52:22,113 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1913/03/a.htm’.
+2025-11-23 16:52:22,277 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1913/03/a.htm’: 200 OK. Length: 124921 [text/html].
+2025-11-23 16:52:23,704 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1914/04/16a.htm’.
+2025-11-23 16:52:23,753 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1914/04/16a.htm’: 200 OK. Length: 4557 [text/html].
+2025-11-23 16:52:25,009 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/25-8.htm’.
+2025-11-23 16:52:25,060 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/25-8.htm’: 200 OK. Length: 12272 [text/html].
+2025-11-23 16:52:25,772 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/lenin008.htm’.
+2025-11-23 16:52:25,930 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/lenin008.htm’: 200 OK. Length: 100520 [text/html].
+2025-11-23 16:52:27,304 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/conspect.doc’.
+2025-11-23 16:52:27,471 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/conspect.doc’: 200 OK. Length: 98304 [application/msword].
+2025-11-23 16:52:28,379 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/26-1.htm’.
+2025-11-23 16:52:28,437 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/26-1.htm’: 200 OK. Length: 5375 [text/html].
+2025-11-23 16:52:29,458 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1915/08/10a.htm’.
+2025-11-23 16:52:29,516 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1915/08/10a.htm’: 200 OK. Length: 9721 [text/html].
+2025-11-23 16:52:30,188 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1917/04/07a.htm’.
+2025-11-23 16:52:30,239 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1917/04/07a.htm’: 200 OK. Length: 11487 [text/html].
+2025-11-23 16:52:31,761 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/lenin003.htm’.
+2025-11-23 16:52:31,816 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/lenin003.htm’: 200 OK. Length: 8428 [text/html].
+2025-11-23 16:52:32,457 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/lenin007.htm’.
+2025-11-23 16:52:32,684 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/lenin007.htm’: 200 OK. Length: 238900 [text/html].
+2025-11-23 16:52:33,864 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/disaster.htm’.
+2025-11-23 16:52:33,977 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/disaster.htm’: 200 OK. Length: 29389 [text/html].
+2025-11-23 16:52:34,871 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/lenin004.htm’.
+2025-11-23 16:52:34,930 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/lenin004.htm’: 200 OK. Length: 6205 [text/html].
+2025-11-23 16:52:35,695 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/lenin005.htm’.
+2025-11-23 16:52:35,758 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/lenin005.htm’: 200 OK. Length: 13052 [text/html].
+2025-11-23 16:52:37,241 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/lenin006.htm’.
+2025-11-23 16:52:37,291 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/lenin006.htm’: 200 OK. Length: 6297 [text/html].
+2025-11-23 16:52:38,277 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/36-2.htm’.
+2025-11-23 16:52:38,480 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/36-2.htm’: 200 OK. Length: 100794 [text/html].
+2025-11-23 16:52:39,773 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/36-3.htm’.
+2025-11-23 16:52:39,846 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/36-3.htm’: 200 OK. Length: 7512 [text/html].
+2025-11-23 16:52:41,174 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/36-1.htm’.
+2025-11-23 16:52:41,223 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/36-1.htm’: 200 OK. Length: 6288 [text/html].
+2025-11-23 16:52:41,968 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/37-5.htm’.
+2025-11-23 16:52:42,020 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/37-5.htm’: 200 OK. Length: 7830 [text/html].
+2025-11-23 16:52:43,104 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/37-9.htm’.
+2025-11-23 16:52:43,156 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/37-9.htm’: 200 OK. Length: 5103 [text/html].
+2025-11-23 16:52:43,965 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/37-2.htm’.
+2025-11-23 16:52:44,048 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/37-2.htm’: 200 OK. Length: 13889 [text/html].
+2025-11-23 16:52:44,688 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/army80.htm’.
+2025-11-23 16:52:44,745 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/army80.htm’: 200 OK. Length: 6448 [text/html].
+2025-11-23 16:52:45,295 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/2.htm’.
+2025-11-23 16:52:45,343 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/2.htm’: 200 OK. Length: 4210 [text/html].
+2025-11-23 16:52:46,131 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/index.htm’.
+2025-11-23 16:52:46,183 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/index.htm’: 200 OK. Length: 4551 [text/html].
+2025-11-23 16:52:47,293 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/02.htm’.
+2025-11-23 16:52:47,348 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/02.htm’: 200 OK. Length: 7122 [text/html].
+2025-11-23 16:52:47,902 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/03.htm’.
+2025-11-23 16:52:47,955 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/03.htm’: 200 OK. Length: 7667 [text/html].
+2025-11-23 16:52:48,746 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/04.htm’.
+2025-11-23 16:52:48,801 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/04.htm’: 200 OK. Length: 11795 [text/html].
+2025-11-23 16:52:50,219 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/05.htm’.
+2025-11-23 16:52:50,300 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/05.htm’: 200 OK. Length: 18371 [text/html].
+2025-11-23 16:52:51,217 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/06.htm’.
+2025-11-23 16:52:51,304 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/06.htm’: 200 OK. Length: 18283 [text/html].
+2025-11-23 16:52:52,166 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/07.htm’.
+2025-11-23 16:52:52,247 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/07.htm’: 200 OK. Length: 21965 [text/html].
+2025-11-23 16:52:53,082 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/08.htm’.
+2025-11-23 16:52:53,165 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/08.htm’: 200 OK. Length: 24594 [text/html].
+2025-11-23 16:52:53,938 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/09.htm’.
+2025-11-23 16:52:54,025 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/09.htm’: 200 OK. Length: 25809 [text/html].
+2025-11-23 16:52:54,822 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/10.htm’.
+2025-11-23 16:52:54,902 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/10.htm’: 200 OK. Length: 29613 [text/html].
+2025-11-23 16:52:55,462 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/11.htm’.
+2025-11-23 16:52:55,553 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/11.htm’: 200 OK. Length: 32460 [text/html].
+2025-11-23 16:52:56,132 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/12-0.htm’.
+2025-11-23 16:52:56,177 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/12-0.htm’: 200 OK. Length: 2079 [text/html].
+2025-11-23 16:52:56,915 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/12-1.htm’.
+2025-11-23 16:52:56,962 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/12-1.htm’: 200 OK. Length: 5777 [text/html].
+2025-11-23 16:52:57,630 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/12-2.htm’.
+2025-11-23 16:52:57,678 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/12-2.htm’: 200 OK. Length: 8502 [text/html].
+2025-11-23 16:52:58,583 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/12-3.htm’.
+2025-11-23 16:52:58,632 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/12-3.htm’: 200 OK. Length: 4659 [text/html].
+2025-11-23 16:53:00,011 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/12-4.htm’.
+2025-11-23 16:53:00,058 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/12-4.htm’: 200 OK. Length: 11441 [text/html].
+2025-11-23 16:53:01,231 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1920/leftwing/12-5.htm’.
+2025-11-23 16:53:01,283 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1920/leftwing/12-5.htm’: 200 OK. Length: 3292 [text/html].
+2025-11-23 16:53:01,979 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/works/lenin001.htm’.
+2025-11-23 16:53:02,106 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/works/lenin001.htm’: 200 OK. Length: 78698 [text/html].
+2025-11-23 16:53:03,489 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/cw_zip/index.htm’.
+2025-11-23 16:53:03,534 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/cw_zip/index.htm’: 200 OK. Length: 3513 [text/html].
+2025-11-23 16:53:04,084 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/cw_zip/l2.zip’.
+2025-11-23 16:53:04,429 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/cw_zip/l2.zip’: 200 OK. Length: 1187696 [application/zip].
+2025-11-23 16:53:05,430 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/cw_zip/l3_1.zip’.
+2025-11-23 16:53:05,598 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/cw_zip/l3_1.zip’: 200 OK. Length: 473645 [application/zip].
+2025-11-23 16:53:06,752 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/cw_zip/l4.zip’.
+2025-11-23 16:53:07,203 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/cw_zip/l4.zip’: 200 OK. Length: 868371 [application/zip].
+2025-11-23 16:53:07,906 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/cw_zip/l8.zip’.
+2025-11-23 16:53:08,124 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/cw_zip/l8.zip’: 200 OK. Length: 590604 [application/zip].
+2025-11-23 16:53:08,940 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/cw_zip/l9.zip’.
+2025-11-23 16:53:09,121 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/cw_zip/l9.zip’: 200 OK. Length: 371438 [application/zip].
+2025-11-23 16:53:09,908 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/cw_zip/l20.zip’.
+2025-11-23 16:53:10,117 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/cw_zip/l20.zip’: 200 OK. Length: 524324 [application/zip].
+2025-11-23 16:53:11,303 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/cw_zip/l25.zip’.
+2025-11-23 16:53:11,482 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/cw_zip/l25.zip’: 200 OK. Length: 214980 [application/zip].
+2025-11-23 16:53:12,825 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/cw_zip/l26.zip’.
+2025-11-23 16:53:13,038 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/cw_zip/l26.zip’: 200 OK. Length: 231244 [application/zip].
+2025-11-23 16:53:13,969 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/cw_zip/l34.zip’.
+2025-11-23 16:53:14,303 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/cw_zip/l34.zip’: 200 OK. Length: 979218 [application/zip].
+2025-11-23 16:53:14,894 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/cw_zip/l36.zip’.
+2025-11-23 16:53:14,959 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/cw_zip/l36.zip’: 200 OK. Length: 76425 [application/zip].
+2025-11-23 16:53:15,612 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/cw_zip/l37.zip’.
+2025-11-23 16:53:15,796 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/cw_zip/l37.zip’: 200 OK. Length: 254688 [application/zip].
+2025-11-23 16:53:16,602 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/glossary/people/l/pics/lenin.jpg’.
+2025-11-23 16:53:16,663 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/glossary/people/l/pics/lenin.jpg’: 200 OK. Length: 12859 [image/jpeg].
+2025-11-23 16:53:18,137 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/css/border-grey.css’.
+2025-11-23 16:53:18,184 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/css/border-grey.css’: 200 OK. Length: 892 [text/css].
+2025-11-23 16:53:19,686 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/css/works.css’.
+2025-11-23 16:53:19,772 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/css/works.css’: 200 OK. Length: 17053 [text/css].
+2025-11-23 16:53:21,242 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1899/03/len03v00_files/len03v01%20s%20textem.jpg’.
+2025-11-23 16:53:21,332 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1899/03/len03v00_files/len03v01%20s%20textem.jpg’: 200 OK. Length: 37290 [image/jpeg].
+2025-11-23 16:53:22,035 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1899/03/len03v00_files/len03v02%20s%20textem.jpg’.
+2025-11-23 16:53:22,162 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1899/03/len03v00_files/len03v02%20s%20textem.jpg’: 200 OK. Length: 93658 [image/jpeg].
+2025-11-23 16:53:23,160 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/russkij/lenin/1902/ogl6_files/CHTODEL.JPG’.
+2025-11-23 16:53:23,238 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/russkij/lenin/1902/ogl6_files/CHTODEL.JPG’: 200 OK. Length: 16345 [image/jpeg].
+2025-11-23 16:53:24,155 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/css/border.css’.
+2025-11-23 16:53:24,208 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/css/border.css’: 200 OK. Length: 686 [text/css].
+2025-11-23 16:53:25,150 - wpull.processor.web - INFO - Fetching ‘https://www.marxists.org/css/works.css’.
+2025-11-23 16:53:25,231 - wpull.processor.web - INFO - Fetched ‘https://www.marxists.org/css/works.css’: 200 OK. Length: 24368 [text/css].
+2025-11-23 16:53:26,210 - wpull.application.tasks.stats - INFO - FINISHED.
+2025-11-23 16:53:26,210 - wpull.application.tasks.stats - INFO - Duration: 0:02:16. Speed: 251.2 KiB/s.
+2025-11-23 16:53:26,211 - wpull.application.tasks.stats - INFO - Downloaded: 118 files, 10.8 MiB.
