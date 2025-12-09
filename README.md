@@ -42,15 +42,15 @@
 
 ```plaintext
 web_archive_collection/
-├── iskra-research/                 # Заполнить
-│   ├── xxxxxxxxxxxx/               # 
-|   └── README.md                   # Заполнить
-├── marxists.org-lenin/             # Заполнить
-│   ├── xxx/                        #
-|   └── README.md                   # Заполнить
-├── royallib.com-krupskaya_nadegda/ # Заполнить
-│   ├── xxx/                        #
-|   └── README.md                   # Заполнить
+├── iskra-research/                 # Материалы сайта iskra-research.com
+│   ├── ArchiveReady.mhtml          # Отчет по архивируемости сайта
+|   └── README.md                   # Анализ архивируемости и метаданных веб-архива
+├── marxists.org-lenin/             # Материалы сайта marxists.org-lening
+│   ├── ArchiveReady.mhtml          # Отчет по архивируемости сайта
+|   └── README.md                   # Анализ архивируемости и метаданных веб-архива
+├── royallib.com-krupskaya_nadegda/ # Материалы сайта royallib.com-krupskaya
+│   ├── ArchiveReady.mhtml          # Отчет по архивируемости сайта
+|   └── README.md                   # Анализ архивируемости и метаданных веб-архива
 ├── README.md                       # Описание проекта и метрики
 └── LICENSE                         # Лицензия
 ```
